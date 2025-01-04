@@ -26,7 +26,7 @@ ping google.com && || goto if_0001_else
 :if_0001_end
 ```
 
-I've written similar products in the past, but decided to re-code this from scratch ( Jan 2025 ) and make public for the iPXE community.
+I've written similar products in the past, but decided to code this from scratch ( Jan 2025 ) and make public for the iPXE community.
 
 # Commands:
 
