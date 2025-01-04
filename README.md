@@ -26,7 +26,7 @@ ping google.com && || goto if_0001_else
 :if_0001_end
 ```
 
-I decided to write this from scratch, and share with the iPXE community.
+I've written similar products in the past, but decided to re-code this from scratch ( Jan 2025 ) and make public for the iPXE community.
 
 # Commands:
 
@@ -106,6 +106,6 @@ This feature is only applicable for `echo` `item` `prompt` lines contain Double 
 
 # Other Programming Notes
 
-* Save your script with the .sh file extension. Visual Studio code will do a pretty good job of dispalying the iPXE code. THen save the output as *.ipxe for execution.
+* Save your script with the .sh file extension. Visual Studio code will do a pretty good job of dispalying the iPXE code. Then save the output as *.ipxe for execution.
 * Lines with `#region` and `#endregion` are striped out.
 * Lines that start with `##` are removed.
