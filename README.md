@@ -25,6 +25,7 @@ ping google.com && || goto if_0001_else
     echo Could not ping google.com
 :if_0001_end
 ```
+IF statements make it easier to read. Right? :^)
 
 I've written similar products in the past, but decided to code this from scratch ( Jan 2025 ) and make public for the iPXE community.
 
